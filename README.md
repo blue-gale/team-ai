@@ -1,0 +1,2 @@
+# team-ai
+Machine learning program that controls two or more bodies, and makes them cooperate on tasks. More specifics are still unknown, as this is my first Machine Learning project. For the same reason, progress should be slow.
